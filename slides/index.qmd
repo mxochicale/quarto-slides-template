@@ -145,7 +145,7 @@ Getting started documentation provide with a range of links to setup, use, run a
 
 ::: {.notes}
 Speaker notes go here.
-
+:::
 
 
 
@@ -182,7 +182,7 @@ Getting started documentation provide with a range of links to setup, use, run a
 
 ::: {.notes}
 Speaker notes go here.
-
+:::
 
 
 
