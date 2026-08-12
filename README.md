@@ -6,7 +6,7 @@ Slides abstract.
 
 ## :school_satchel: Slides
 
-<LINK>
+https://mxochicale.github.io/quarto-slides-template
 
 
 ## Versioning slides
