@@ -19,6 +19,15 @@ format:
     transition: fade
     transition-speed: fast
     highlight-style: github-dark
+    include-in-header:
+      text: |
+        <style>
+        .reveal .slide-logo {
+          max-height: 50px !important;  /* increase this value as needed */
+          height: 50px !important;
+          max-width: unset !important;
+        }
+        </style>    
   gfm:
     author: Miguel Xochicale
 ---
@@ -57,7 +66,7 @@ format:
 
 
 ::: footer
-[Q1-2026 [(web-animations 2025 by mxochicale)](https://mxochicale.github.io/web-animations/)]{.dim-text style="text-align:left;"}
+[Add Event name?, date? and place? [(web-animations 2025 by mxochicale)](https://mxochicale.github.io/web-animations/)]{.dim-text style="text-align:left;"}
 :::
 
 ::: {.notes}
